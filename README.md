@@ -2,7 +2,7 @@
 
 ✨ hi i’m [Chixiang Wang](https://chixiangwang.com) (he/him/his),
 - a Ph.D. student in computer science @ Dartmouth
-- interested in using **mobile computing** techniques to address **security and privacy** problems, expecially in smart-homes context
+- interested in using **mobile computing** techniques to address **security and privacy** problems, especially in smart-homes context
 
 - reach me!  <a href="https://www.instagram.com/jeremyw____/">
   <img align="center" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
